@@ -1,0 +1,17 @@
+#container{
+    text-align: center;
+
+}
+
+#timer{
+    font-size: 24px;
+    font-weight: 700;
+    margin: 10px 0;
+}
+
+#start,#stop{
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 18px;
+    cursor: pointer;
+}
