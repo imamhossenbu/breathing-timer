@@ -1,6 +1,20 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 60vh;
+    width: 400px;
+    margin: 0 auto;
+    /* border: 1px solid red; */
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.507);
+    margin-top: 100px;
+    border-radius: 8px;
+}
+
+
 #container{
     text-align: center;
-
 }
 
 #timer{
